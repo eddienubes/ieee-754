@@ -1,5 +1,7 @@
 # Floating point number JavaScript Issue of IEEE 754
 
+## Original tiny article link with LateX support - [click](https://nutritious-larch-59b.notion.site/Floating-point-number-JavaScript-Issue-of-IEEE-754-b7392ade15904125b225b3d0b2d3eeb8)
+
 ## Theses:
 
 - The idea of floating point numbers is that we have to compress a certain number range to a smaller one. We have to move from an **infinite** to a **finite** system so to say.
