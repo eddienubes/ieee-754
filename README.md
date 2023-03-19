@@ -26,7 +26,7 @@
 1. Since exponent represents the power we have to raise our radix to, we can represent each power range with a corresponding numerical integer range (take a look at the picture below)
 
 
-    ![Untitled](Floating%20point%20number%20JavaScript%20Issue%20of%20IEEE%20754%20b7392ade15904125b225b3d0b2d3eeb8/Untitled%203.png)
+![Untitled](./assets/Untitled%203.png)
     
     So far, we’re modeling a 16-bit system, where 5 bits are dedicated for exponent, which means we can hold 32 numbers in that exponent position, or using a sign from $[-16, 15]$
     
