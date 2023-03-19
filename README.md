@@ -1,6 +1,6 @@
 # Floating point number JavaScript Issue of IEEE 754
 
-## Original tiny article link with LateX support - [click](https://nutritious-larch-59b.notion.site/Floating-point-number-JavaScript-Issue-of-IEEE-754-b7392ade15904125b225b3d0b2d3eeb8)
+## **Original tiny article link with LateX support** - [click](https://nutritious-larch-59b.notion.site/Floating-point-number-JavaScript-Issue-of-IEEE-754-b7392ade15904125b225b3d0b2d3eeb8)
 
 ## Theses:
 
